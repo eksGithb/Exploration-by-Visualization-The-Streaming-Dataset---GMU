@@ -1,5 +1,5 @@
 ---
-title: "Lab 2: Exploration by visualization: the streaming movies dataset"
+title: "Exploration by visualization: the streaming movies dataset"
 author: "Eric Simo"
 date: "`r Sys.Date()`"
 documentclass: article
